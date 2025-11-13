@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "f05c6612-4bb5-4b67-b6f3-9c82930d6f10",
+  "name": "desktop",
+  "symbol": "bg_new_piskel_0",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "desktop.png",
+  "tileColors": "06168+"
+}

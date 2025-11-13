@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "f301bcfd-b4da-45c8-a2bd-c029d9ab6751",
+  "name": "diagnostics",
+  "symbol": "bg_diagnostics",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "diagnostics.png",
+  "tileColors": "062a+0710+064+0710+064+0710+064+0710+064+0710+064+0710+064+0710+064+0710+064+0710+064+0710+064+0710+064+0710+064+0710+064+0710+062a+",
+  "autoColor": false
+}
