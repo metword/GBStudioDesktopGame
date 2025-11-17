@@ -92,6 +92,11 @@
       "symbol": "var_music_house_playing_0"
     },
     {
+      "id": "18",
+      "name": "First Dialogue",
+      "symbol": "var_first_dialogue_0"
+    },
+    {
       "id": "871ea302-1cc1-463c-b9d7-530aac38fe81__L0",
       "name": "Spoken to gardener",
       "symbol": ""
@@ -150,11 +155,6 @@
       "id": "5fa52cd0-57cd-414c-8b93-5601c6e9636f__L0",
       "name": "Defeated",
       "symbol": ""
-    },
-    {
-      "id": "18",
-      "name": "First Dialogue",
-      "symbol": "var_first_dialogue_0"
     }
   ]
 }
